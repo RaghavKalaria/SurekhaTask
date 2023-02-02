@@ -1,0 +1,25 @@
+---
+- firstName: Raghav
+  Lastname: kalaria
+  age: 21
+  address: 
+    flatNo: 123
+    building: xyz
+    street: baner
+    city: pune
+    zipcode: 411045
+  contact: 
+    Phone: 9822426644
+    home: 020123121
+- firstName: John
+  Lastname: Doe
+  age: 32
+  address: 
+    flatNo: 123
+    building: xyz
+    street: baner
+    city: pune
+    zipcode: 411042
+  contact: 
+    Phone: 982242661
+    home: 020123123
