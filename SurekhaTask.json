@@ -3,12 +3,19 @@
         "firstName":"Raghav",
         "lastName":"Kalaria",
         "age": 21,
-        "address":{
+        "homeAddress":{
             "faltNo.":"123",
             "buildingName":"xyz",
             "street":"qwerty",
             "city":"pune",
             "zipcode":411045           
+        },
+        "permanentAddress":{
+            "faltNo.":"321",
+            "buildingName":"zxy",
+            "street":"ytrewq",
+            "city":"pune",
+            "zipcode":411054           
         },
         "contact":{
             "phone": 9822436622,
@@ -21,13 +28,21 @@
         "firstName":"John",
         "lastName":"Doe",
         "age":32,
-        "address":{
+        "homeAddress":{
             "faltNo.":"rar",
             "buildingName":"win",
             "street":"baner",
             "city":"pune",
             "zipcode": 411045           
         },
+        "permanentAddress":{
+            "faltNo.":"323",
+            "buildingName":"rte",
+            "street":"baner",
+            "city":"pune",
+            "zipcode":411055          
+        },
+        
         "contact":{
             "phone": 9822426644,
             "home": 2067788332,
