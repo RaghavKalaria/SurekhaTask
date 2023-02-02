@@ -15,8 +15,10 @@
     city: pune
     zipcode: 411054
   contact: 
-    Phone: 9822426644
-    home: 020123121
+    - type: phone
+      number: 9822426644
+    - type: home
+      number: 020123121
 - firstName: John
   Lastname: Doe
   age: 32
@@ -33,5 +35,7 @@
     city: pune
     zipcode: 411055
   contact: 
-    Phone: 982242661
-    home: 020123123
+     - type: phone
+      number: 9822426611
+    - type: home
+      number: 020123143

@@ -17,11 +17,22 @@
             "city":"pune",
             "zipcode":411054           
         },
-        "contact":{
-            "phone": 9822436622,
-            "home":  206677889,
-            "office": 9822425544
-        }
+        "contact":[
+            {
+            "Type": "Phone" ,
+            "number":  9822436622
+            },
+            {
+            "type": "Home",
+            "number": 206677889
+            },
+            {
+                
+            "type": "office",
+            "number": 9822425544
+                   
+            }  
+        ]
         
     },
     {
@@ -43,11 +54,21 @@
             "zipcode":411055          
         },
         
-        "contact":{
-            "phone": 9822426644,
-            "home": 2067788332,
-            "office": 9822426611
-        }
-        
+        "contact":[
+            {
+            "Type": "Phone" ,
+            "number":  9822436611
+            },
+            {
+            "type": "Home",
+            "number": 206677998
+            },
+            {
+                
+            "type": "office",
+            "number": 9822425533
+                   
+            }  
+        ]
     }
 ]
